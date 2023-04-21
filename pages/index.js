@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title=yoyo" />
+        <Header title=yoyo " />
         <p className="description">
           tester <code>pages/index.js</code>
         </p>
